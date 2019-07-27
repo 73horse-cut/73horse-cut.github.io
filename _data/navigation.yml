@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "Blog Posts 📕"
+    url: /year-archive/
+
+  - title: "Portfolio 📅"
+    url: /portfolio/
+
+  - title: "Publications 📃"
+    url: /publications/
+
+  - title: "Talks 🎤"
+    url: /talks/
+
+  - title: "Teaching 🏫"
+    url: /teaching/
+
+  - title: "CV 📚"
+    url: /cv/
+
+  - title: "Guide 👏"
+    url: /markdown/
